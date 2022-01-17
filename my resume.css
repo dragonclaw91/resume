@@ -1,0 +1,23 @@
+body {
+  background-color: blue; 
+}
+
+h1 {
+  color: red
+}
+
+ul{
+  font-family: Brush Script MT;
+  color: white
+  
+}
+.name{
+  font-size: 48px
+}
+
+div {border: 1px solid;
+padding-left: 20px }
+
+
+
+

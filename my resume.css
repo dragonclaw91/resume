@@ -1,0 +1,30 @@
+
+body {
+  background-color: blue; 
+}
+
+h1 {
+  color: red
+}
+
+ul{
+  font-family: Brush Script MT;
+  color: white
+  
+}
+.name{
+  font-size: 48px;
+    text-align: center
+}
+
+div {border: 1px solid;
+padding-left: 20px }
+
+
+.section{float:left;
+width:50%;
+height: 50%;
+text-align: center;}
+
+.aside{float:right;
+width:42%;}
